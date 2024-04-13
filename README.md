@@ -1,8 +1,7 @@
 ### Keila Barreto
-- 🔭 Estagiaria em Desenvolvimento Web na Empresa Lyncas
+- 🔭 Estagiaria em Desenvolvimento frontend na Empresa Molde.me
 - 🌱 Graduando Análise e Desenvolvimento de Sistemas
 - 👯 Especialista UI/UX Designer
-- ✨ Portfólio UI => https://www.behance.net/keilabarreto
 <div>
   <a href="https://www.linkedin.com/in//keila-kdbweb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
