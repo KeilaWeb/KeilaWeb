@@ -1,7 +1,7 @@
 ### Keila Barreto
-- 🔭 Estagiaria em Desenvolvimento frontend na Empresa Molde.me
+- 🔭 Entusiasta da programação atuo como estagiaria em Desenvolvimento frontend na Empresa Molde.me
+- 👯 Na empresa Molde.me também atuo como UI/UX Designer e designer
 - 🌱 Graduando Análise e Desenvolvimento de Sistemas
-- 👯 Especialista UI/UX Designer
 <div>
   <a href="https://www.linkedin.com/in//keila-kdbweb" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
