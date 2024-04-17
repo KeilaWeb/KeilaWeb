@@ -1,4 +1,5 @@
 ### Keila Barreto
+ <img src="https://github-readme-streak-stats.herokuapp.com?user=Keila%20Barreto&theme=dark&border_radius=5.5&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&mode=weekly" alt="GitHub Streak" /></a>
 - 🔭 Entusiasta da programação atuo como estagiaria em Desenvolvimento frontend na Empresa Molde.me
 - 👯 Na empresa Molde.me também atuo como UI/UX Designer e designer
 - 🌱 Graduando Análise e Desenvolvimento de Sistemas
