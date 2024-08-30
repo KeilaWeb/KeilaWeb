@@ -9,7 +9,7 @@
     <img align="center" alt="Python" title="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 </div>
 
-<div style="display: inline-block"><br>    
+<div style="display: inline-block">  
   <h4>Ferramentas e Tecnologias que Explorei:</h4>
     <img align="center" alt="Vue.js" title="Vue.js" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg">    
     <img align="center" alt="SQL Server" title="SQL Server" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
