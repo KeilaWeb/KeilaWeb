@@ -1,4 +1,4 @@
-<h3>Linguagens, frameworks e ferramentas que já utilizei, utilizo ou já estudei em algum momento:</h3>
+<h3>Linguagens, frameworks e ferramentas que utilizo, ou ja utilizei em algum momento:</h3>
 <div style="display: inline-block"><br>  
   <img align="center" alt="Figma" title="Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
   <img align="center" alt="Sass" title="Sass" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
@@ -9,5 +9,6 @@
   <img align="center" alt="SQL Server" title="SQL Server" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="Photoshop" title="Photoshop" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg">  
   <img align="center" alt="WordPress" title="WordPress" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg">
+  <img align="center" alt="Python" title="Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
   <img align="center" alt="C#" title="C#" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg">
 </div>
