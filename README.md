@@ -1,5 +1,4 @@
 <div style="display: inline-block">
-<h3>Minha Jornada Tecnológica:</h3>
   <h4>Ferramentas e Tecnologias em que Estou Imersa:</h4>
     <img align="center" alt="Figma" title="Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
     <img align="center" alt="Sass" title="Sass" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg">
